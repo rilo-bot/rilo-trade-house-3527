@@ -16,7 +16,6 @@ import { ListCta } from "@/features/marketing/components/list-cta";
 import { BrowseByType } from "@/features/marketing/components/browse-by-type";
 import { BrowseByBudget } from "@/features/marketing/components/browse-by-budget";
 import { InsightsTeaser } from "@/features/marketing/components/insights-teaser";
-import { Faq } from "@/features/marketing/components/faq";
 import { HomeSearchStoreProvider } from "@/stores/home-search-store-provider";
 
 export default function Home() {
@@ -84,8 +83,6 @@ export default function Home() {
       <div id="why">
         <TrustStrip />
       </div>
-      {/* Frequently asked questions. */}
-      <Faq />
       <ListCta />
     </HomeSearchStoreProvider>
   );
