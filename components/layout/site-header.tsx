@@ -45,7 +45,10 @@ export function SiteHeader() {
       )}
     >
       <div className="mx-auto flex h-14 max-w-page items-center justify-between gap-3 px-4">
-        <Logo className="text-brand-foreground text-lg" />
+        <Logo
+          className="text-brand-foreground text-lg"
+          accentClassName="text-sky-300"
+        />
 
         {/* Desktop inline nav — animated underline highlights the active tab */}
         <Suspense fallback={<HeaderNavFallback />}>
