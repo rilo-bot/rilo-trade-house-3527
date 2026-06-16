@@ -1,0 +1,129 @@
+[
+  {
+    "account": "dipach947@gmail.com",
+    "listingType": "sale", "category": "residential", "propertyType": "villa",
+    "title": "Sea-Kissed Edwardian Villa in the Heart of Devonport",
+    "description": "Wrapped in established hydrangeas and a short stroll from Cheltenham Beach, this 1910 villa blends period charm — leadlights, soaring ceilings and polished rimu floors — with a sun-soaked modern kitchen and a deck built for long summer evenings. The ferry to the city is ten minutes on foot, a rare blend of village calm and downtown convenience.",
+    "priceAmount": 2390000, "suburb": "Devonport",
+    "amenities": ["Sea views", "Heat pump", "Off-street parking", "Native garden", "Sunny deck", "Insulated"],
+    "bedrooms": 4, "bathrooms": 2, "carSpaces": 1, "areaSqm": 188, "landAreaSqm": 612,
+    "saleType": "resale", "saleMethod": "auction", "titleType": "freehold", "rateableValue": 2250000,
+    "yearBuilt": 1910, "furnishing": "unfurnished", "hasOpenHome": true
+  },
+  {
+    "account": "dipach947@gmail.com",
+    "listingType": "rent", "category": "residential", "propertyType": "apartment",
+    "title": "Stylish Inner-City Apartment with Skyline Views in Te Aro",
+    "description": "Perched high above Courtenay Place, this one-bedroom apartment makes the most of floor-to-ceiling glass with the city lights as your backdrop. A secure building, lift access and a smart open-plan layout make it an easy lock-up-and-leave for professionals who want Wellington's bars, theatres and galleries on the doorstep.",
+    "priceAmount": 650, "suburb": "Te Aro",
+    "amenities": ["Double glazing", "Heat pump", "Lift access", "Dishwasher", "Secure entry"],
+    "bedrooms": 1, "bathrooms": 1, "carSpaces": 0, "areaSqm": 52,
+    "furnishing": "furnished", "hasOpenHome": true
+  },
+  {
+    "account": "dipach947@gmail.com",
+    "listingType": "sale", "category": "residential", "propertyType": "townhouse",
+    "title": "Near-New Townhouse Footsteps from Riccarton's Bustle",
+    "description": "Low-maintenance and beautifully finished, this three-bedroom townhouse pairs a stone-bench kitchen with a sunny, fully-fenced courtyard. Double glazing and a heat pump keep it warm year-round, and you're moments from Westfield Riccarton, Hagley Park and the university — ideal for families or savvy investors.",
+    "priceAmount": 749000, "suburb": "Riccarton",
+    "amenities": ["Double glazing", "Heat pump", "Fully fenced", "Single garage", "Modern kitchen"],
+    "bedrooms": 3, "bathrooms": 2, "carSpaces": 1, "areaSqm": 124, "landAreaSqm": 180,
+    "saleType": "ready", "saleMethod": "asking_price", "titleType": "freehold", "rateableValue": 720000,
+    "yearBuilt": 2022, "furnishing": "unfurnished", "hasOpenHome": true
+  },
+  {
+    "account": "dipach947@gmail.com",
+    "listingType": "rent", "category": "residential", "propertyType": "house",
+    "title": "Sunny Family Home a Short Walk from Papamoa Beach",
+    "description": "Set on a quiet street just back from the dunes, this four-bedroom home offers open-plan living that opens to a north-facing deck and level lawn. With a double garage, heat pump and room for the whole family, it's beachside living without compromise — bring the boards and the boat.",
+    "priceAmount": 720, "suburb": "Papamoa",
+    "amenities": ["Heat pump", "Double garage", "Fully fenced", "Sunny deck", "Dishwasher"],
+    "bedrooms": 4, "bathrooms": 2, "carSpaces": 2, "garageSpaces": 2, "areaSqm": 190,
+    "furnishing": "unfurnished", "hasOpenHome": true
+  },
+  {
+    "account": "dipach947@gmail.com",
+    "listingType": "sale", "category": "residential", "propertyType": "house",
+    "title": "Character Bungalow on a Leafy Cambridge Section",
+    "description": "A white picket fence and a wraparound veranda set the tone for this lovingly maintained bungalow, where original sash windows meet a tastefully updated kitchen and bathroom. The deep, tree-lined section has space for a vege garden and trampoline, and the town's cafes and the Avantidrome are minutes away.",
+    "priceAmount": 985000, "suburb": "Cambridge",
+    "amenities": ["Off-street parking", "Native garden", "Heat pump", "Insulated", "Fully fenced"],
+    "bedrooms": 3, "bathrooms": 1, "carSpaces": 2, "areaSqm": 150, "landAreaSqm": 809,
+    "saleType": "resale", "saleMethod": "deadline_sale", "titleType": "freehold", "rateableValue": 950000,
+    "yearBuilt": 1935, "furnishing": "unfurnished", "hasOpenHome": true
+  },
+  {
+    "account": "dipach947@gmail.com",
+    "listingType": "pg", "category": "residential", "propertyType": "pg_bed",
+    "title": "Double Room in a Warm, Friendly Mount Eden Villa",
+    "description": "A sunny double room in a freshly renovated character villa, sharing with two easy-going professionals. The room is part-furnished with a double bed and wardrobe, and you'll enjoy a modern shared kitchen, a log burner and a leafy back garden. Two minutes' walk to Mount Eden village cafes and the train.",
+    "priceAmount": 295, "suburb": "Mount Eden",
+    "amenities": ["WiFi included", "Heat pump", "Off-street parking", "Shared garden"],
+    "bedrooms": 1, "bathrooms": 1, "pgGender": "coliving", "mealsIncluded": false,
+    "furnishing": "semi_furnished", "hasOpenHome": false
+  },
+
+  {
+    "account": "mahin.savannahlabs@gmail.com",
+    "listingType": "sale", "category": "residential", "propertyType": "apartment",
+    "title": "Alpine-View Apartment Moments from Queenstown's Waterfront",
+    "description": "Wake to uninterrupted views of the Remarkables from this immaculate two-bedroom apartment, where a sleek open-plan living area spills onto a sun-drenched balcony. Securely set in a sought-after complex with a lift and dedicated parking, it's a short stroll to the lakefront, gondola and the buzz of town — a dream lock-and-leave or premium holiday let.",
+    "priceAmount": 1685000, "suburb": "Queenstown",
+    "amenities": ["Mountain views", "Heat pump", "Lift access", "Secure parking", "Double glazing"],
+    "bedrooms": 2, "bathrooms": 2, "carSpaces": 1, "areaSqm": 96,
+    "saleType": "ready", "saleMethod": "enquiries_over", "titleType": "unit_title", "rateableValue": 1600000,
+    "yearBuilt": 2018, "furnishing": "furnished", "hasOpenHome": true
+  },
+  {
+    "account": "mahin.savannahlabs@gmail.com",
+    "listingType": "rent", "category": "residential", "propertyType": "townhouse",
+    "title": "Modern Three-Bedroom Townhouse Near the Waikato River",
+    "description": "Freshly built and finished to a high standard, this townhouse offers light, open living, a designer kitchen with island, and a private deck for weekend barbecues. Internal-access garaging, double glazing and full insulation make it warm and effortless, and the river path, university and Hamilton East village are all close by.",
+    "priceAmount": 640, "suburb": "Hamilton East",
+    "amenities": ["Double glazing", "Heat pump", "Single garage", "Insulated", "Dishwasher"],
+    "bedrooms": 3, "bathrooms": 2, "carSpaces": 1, "garageSpaces": 1, "areaSqm": 132,
+    "furnishing": "unfurnished", "hasOpenHome": true
+  },
+  {
+    "account": "mahin.savannahlabs@gmail.com",
+    "listingType": "sale", "category": "residential", "propertyType": "house",
+    "title": "Substantial Family Residence in Blue-Ribbon Fendalton",
+    "description": "Behind a mature, private garden, this established brick home delivers generous formal and casual living, a sun-filled conservatory and four double bedrooms. Zoned for highly sought-after schools and a short drive from Merivale's boutiques, it offers space, address and enduring appeal in one of the city's finest pockets.",
+    "priceAmount": 1395000, "suburb": "Fendalton",
+    "amenities": ["Heat pump", "Native garden", "Off-street parking", "Insulated", "Modern kitchen", "Ensuite"],
+    "bedrooms": 4, "bathrooms": 2, "carSpaces": 2, "garageSpaces": 2, "areaSqm": 240, "landAreaSqm": 780,
+    "saleType": "resale", "saleMethod": "negotiation", "titleType": "freehold", "rateableValue": 1350000,
+    "yearBuilt": 1992, "furnishing": "unfurnished", "hasOpenHome": true
+  },
+  {
+    "account": "mahin.savannahlabs@gmail.com",
+    "listingType": "rent", "category": "residential", "propertyType": "studio",
+    "title": "Cosy Furnished Studio Steps from Victoria University",
+    "description": "Tucked into a quiet Kelburn street with handy bus links and the cable car nearby, this tidy furnished studio is ideal for a student or single professional. It's warm, sunny and ready to move into, with a compact kitchenette and its own bathroom — campus is a five-minute walk.",
+    "priceAmount": 420, "suburb": "Kelburn",
+    "amenities": ["Furnished", "Heat pump", "WiFi included", "Close to transport"],
+    "bedrooms": 1, "bathrooms": 1, "areaSqm": 32,
+    "furnishing": "furnished", "hasOpenHome": false
+  },
+  {
+    "account": "mahin.savannahlabs@gmail.com",
+    "listingType": "sale", "category": "residential", "propertyType": "house",
+    "title": "Elegant Weatherboard Home in Prized Remuera",
+    "description": "Set on a sunny, elevated site within the double grammar zone, this character weatherboard home combines period elegance with a renovated kitchen and seamless flow to established, north-facing grounds. With five bedrooms, off-street parking and Remuera village a short walk away, it's a rare offering on a tightly held street.",
+    "priceAmount": 2680000, "suburb": "Remuera",
+    "amenities": ["Heat pump", "Native garden", "Off-street parking", "Insulated", "Modern kitchen", "Ensuite"],
+    "bedrooms": 5, "bathrooms": 3, "carSpaces": 2, "areaSqm": 290, "landAreaSqm": 731,
+    "saleType": "resale", "saleMethod": "auction", "titleType": "freehold", "rateableValue": 2550000,
+    "yearBuilt": 1925, "furnishing": "unfurnished", "hasOpenHome": true
+  },
+  {
+    "account": "mahin.savannahlabs@gmail.com",
+    "listingType": "pg", "category": "residential", "propertyType": "pg_bed",
+    "title": "Tidy Room in a Sunny North Dunedin Student Flat",
+    "description": "A warm, double room available in a well-kept flat a short walk from the University of Otago and the hospital. The flat is fully insulated with a heat pump in the lounge, has a recently updated kitchen, and comes with high-speed internet included — perfect for a student starting the new semester.",
+    "priceAmount": 215, "suburb": "North Dunedin",
+    "amenities": ["WiFi included", "Heat pump", "Insulated", "Off-street parking"],
+    "bedrooms": 1, "bathrooms": 1, "pgGender": "coliving", "mealsIncluded": false,
+    "furnishing": "semi_furnished", "hasOpenHome": false
+  }
+]
