@@ -16,6 +16,8 @@ import { ListCta } from "@/features/marketing/components/list-cta";
 import { BrowseByType } from "@/features/marketing/components/browse-by-type";
 import { BrowseByBudget } from "@/features/marketing/components/browse-by-budget";
 import { InsightsTeaser } from "@/features/marketing/components/insights-teaser";
+import { LiveAuctions } from "@/features/marketing/components/live-auctions";
+import { Testimonials } from "@/features/marketing/components/testimonials";
 import { HomeSearchStoreProvider } from "@/stores/home-search-store-provider";
 
 export default function Home() {
@@ -68,6 +70,8 @@ export default function Home() {
       <div id="listings">
         <FeaturedListings />
       </div>
+      {/* Live & upcoming property auctions with real-time countdowns and bids. */}
+      <LiveAuctions />
       {/* Browse by budget — price-range quick filters (tinted band). */}
       <BrowseByBudget />
       {/* "Explore real estate in top cities" */}
@@ -79,6 +83,8 @@ export default function Home() {
       <HowItWorks />
       {/* Suburb-insights cross-sell band. */}
       <InsightsTeaser />
+      {/* Real Kiwi success stories — testimonials with star ratings. */}
+      <Testimonials />
       {/* "Why Trade House" — trust/social proof (Sell menu anchors here) */}
       <div id="why">
         <TrustStrip />
